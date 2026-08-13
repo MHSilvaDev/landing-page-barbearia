@@ -2,7 +2,7 @@
 
 Landing page one-page para barbearias e salões de barbeiro, com design dark/gold voltado ao público masculino premium. Projeto desenvolvido como peça de portfólio para prospecção de clientes freelance, com foco em performance, SEO técnico e conversão via WhatsApp.
 
-🔗 **[Ver demo ao vivo](#)** <!-- Substitua pelo link do deploy (Netlify/Vercel/GitHub Pages) -->
+🔗 **[Ver demo ao vivo](https://mhsilvadev.github.io/landing-page-barbearia/)** <!-- Substitua pelo link do deploy (Netlify/Vercel/GitHub Pages) -->
 
 ![Preview do projeto](assets/images/hero.png)
 
