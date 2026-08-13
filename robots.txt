@@ -1,0 +1,7 @@
+# Barbearia Premium — robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://www.barbeariapremium.com.br/sitemap.xml
